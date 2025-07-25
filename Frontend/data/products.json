@@ -1,0 +1,2320 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Living Room Sets",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia",
+            "price": "1540.0",
+            "salePrice": "1520.0",
+            "startSaleDate": "20-07-2024 12:00am",
+            "endSaleDate": "30-07-2024 12:00pm",
+            "saleStatus": "Upcoming",
+            "stock": "10",
+            "img": "/src/assets/Products/product_img_1.jfif",
+            "sku": "",
+            "type": ["New Arrival", "On Sale"],
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                  },
+                  {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                  },
+                  {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                  }
+            ],
+            "relatedProducts": ["2", "3"]
+        },
+        {
+            "id": "2",
+            "name": "Sofa for living room",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia",
+            "price": "130.0",
+            "salePrice": "110.0",
+            "startSaleDate": "16-07-2024 12:00am",
+            "endSaleDate": "19-07-2024 12:00pm",
+            "saleStatus": "Ongoing",
+            "stock": "10",
+            "img": "/src/assets/Products/product_img_2.jfif",
+            "discount": "-15%",
+            "sku": " 1510",
+            "type": ["New Arrival", "On Sale"],
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                  },
+                  {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                  },
+                  {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                  }
+            ],
+            "relatedProducts": ["1", "3"]
+        },
+        {
+            "id": "3",
+            "name": "Single Sofa",
+            "description": "A long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed",
+            "price": "21.0",
+            "salePrice": "19.0",
+            "startSaleDate": "15-07-2024 12:00am",
+            "endSaleDate": "18-07-2024 12:00pm",
+            "saleStatus": "Ongoing",
+            "stock": "43",
+            "img": "/src/assets/Products/product_img_3.jfif",
+            "discount": "-10%",
+            "sku": " 1510",
+            "type": ["New Arrival", "On Sale"],
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["1", "2"]
+        },
+        {
+            "id": "4",
+            "name": "Single Table",
+            "description": "As opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many",
+            "price": "39.0",
+            "stock": "1",
+            "img": "/src/assets/Products/product_img_4.jfif",
+            "sku": "9911",
+            "type": ["New Arrival"],
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["6"]
+        },
+        {
+            "id": "5",
+            "name": "Unique Sofa",
+            "description": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. There are many variations of passages of Lorem Ipsum available, but the majority",
+            "price": "111.0",
+            "salePrice": "99.0",
+            "startSaleDate": "08-07-2024 12:00am",
+            "endSaleDate": "15-07-2024 12:00pm",
+            "saleStatus": "Upcoming",
+            "stock": "33",
+            "img": "/src/assets/Products/product_img_5.jfif",
+            "discount": "-11%",
+            "sku": "111",
+            "type": ["On Sale"],
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["1", "2", "3"]
+        },
+        {
+            "id": "6",
+            "name": "New badge product",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+            "price": "80.0",
+            "stock": "12",
+            "img": "/src/assets/Products/product_img_6.jfif",
+            "sku": "1110",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["7", "8"]
+        },
+        {
+            "id": "7",
+            "name": "Variable product",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+            "price": "85.0",
+            "salePrice": "70.0",
+            "startSaleDate": "20-07-2024 12:00am",
+            "endSaleDate": "25-07-2024 12:00pm",
+            "saleStatus": "Ongoing",
+            "stock": "11",
+            "img": "/src/assets/Products/product_img_7.jfif",
+            "discount": "-18%",
+            "sku": "1110",
+            "type": ["New Arrival", "On Sale"],
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["6", "8"]
+        },
+        {
+            "id": "8",
+            "name": "Soldout product",
+            "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum",
+            "price": "29.0",
+            "salePrice": "19.0",
+            "stock": "Out of Stock",
+            "img": "/src/assets/Products/product_img_8.jfif",
+            "discount": "-34%",
+            "sku": "501",
+            "type": ["On Sale"],
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["6", "7"]
+        },
+        {
+            "id": "9",
+            "name": "Simple product",
+            "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are",
+            "price": "50.0",
+            "stock": "10",
+            "img": "/src/assets/Products/product_img_9.jfif",
+            "sku": "101",
+            "type": ["New Arrival"],
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["8", "9"]
+        },
+        {
+            "id": "10",
+            "name": "Variable soldout product",
+            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut",
+            "price": "75.0",
+            "salePrice": "55.0",
+            "stock": "Out of Stock",
+            "img": "/src/assets/Products/product_img_10.jfif",
+            "discount": "-27%",
+            "sku": "201",
+            "type": ["On Sale"],
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["9", "11"]
+        },
+        {
+            "id": "11",
+            "name": "Sample affiliate product",
+            "description": "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the",
+            "price": "29.0",
+            "stock": "1",
+            "img": "/src/assets/Products/product_img_11.jfif",
+            "sku": "",
+            "type": ["New Arrival"],
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["10", "12"]
+        },
+        {
+            "id": "12",
+            "name": "Countdown product",
+            "description": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut",
+            "price": "60.0",
+            "salePrice": "39.0",
+            "startSaleDate": "12-07-2024 12:00am",
+            "endSaleDate": "20-07-2024 12:00pm",
+            "saleStatus": "Expired",
+            "stock": "15",
+            "img": "/src/assets/Products/product_img_12.jfif",
+            "discount": "-35%",
+            "sku": "3010",
+            "type": ["On Sale"],
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["10", "11"]
+        },
+        {
+            "id": "13",
+            "name": "Without shortcode product",
+            "description": "we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and",
+            "price": "79.0",
+            "stock": "6",
+            "img": "/src/assets/Products/product_img_13.jfif",
+            "sku": "1411",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["11", "12"]
+        },
+        {
+            "id": "14",
+            "name": "Demo product title",
+            "description": "A long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed",
+            "price": "21.0",
+            "salePrice": "19.0",
+            "startSaleDate": "05-07-2024 12:00am",
+            "endSaleDate": "15-07-2024 12:00pm",
+            "saleStatus": "Upcoming",
+            "stock": "22",
+            "img": "/src/assets/Products/product_img_14.jfif",
+            "discount": "-10%",
+            "sku": "1510",
+            "type": ["New Arrival", "On Sale"],
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["12", "13"]
+        },
+        {
+            "id": "15",
+            "name": "Demo product title",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,",
+            "price": "80.0",
+            "stock": "12",
+            "img": "/src/assets/Products/product_img_15.jfif",
+            "sku": "1110",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["13", "14"]
+        },
+        {
+            "id": "16",
+            "name": "Demo product title",
+            "description": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are",
+            "price": "50.0",
+            "stock": "10",
+            "img": "/src/assets/Products/product_img_16.jfif",
+            "sku": "101",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["14", "15"]
+        },
+        {
+            "id": "17",
+            "name": "Demo product title",
+            "description": "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the",
+            "price": "29.0",
+            "stock": "1",
+            "img": "/src/assets/Products/product_img_17.jfif",
+            "sku": "",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["16", "15"]
+
+        },
+        {
+            "id": "18",
+            "name": "Dummy product name",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,",
+            "price": "130.0",
+            "salePrice": "110.0",
+            "startSaleDate": "10-07-2024 12:00am",
+            "endSaleDate": "20-07-2024 12:00pm",
+            "saleStatus": "Ongoing",
+            "stock": "46",
+            "img": "/src/assets/Products/product_img_2.jfif",
+            "discount": "-15%",
+            "sku": "1510",
+            "type": ["On Sale"],
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["16", "17"]
+        },
+        {
+            "id": "19",
+            "name": "Dummy product name",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,",
+            "price": "80.0",
+            "stock": "12",
+            "img": "/src/assets/Products/product_img_3.jfif",
+            "sku": "1110",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["17", "18"]
+        },
+        {
+            "id": "20",
+            "name": "Dummy product name",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,",
+            "price": "29.0",
+            "salePrice": "19.0",
+            "stock": "Out of Stock",
+            "img": "/src/assets/Products/product_img_4.jfif",
+            "discount": "-34%",
+            "sku": "501",
+            "type": ["On Sale"],
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["18", "19"]
+        },
+        {
+            "id": "21",
+            "name": "Dining Room Set",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,",
+            "price": "921.0",
+            "salePrice": "850.0",
+            "stock": "10",
+            "img": "/src/assets/Products/product_img_21.jfif",
+            "discount": "-8%",
+            "sku": "",
+            "category": "dining",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "topSellQuantity": 56,
+            "topSellAmount": 7018,
+            "relatedProducts": ["22"]
+        },
+        {
+            "id": "22",
+            "name": "Luxury Dining Room Set",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,",
+            "price": "8421.0",
+            "salePrice": "7651.0",
+            "stock": "10",
+            "img": "/src/assets/Products/product_img_22.jfif",
+            "discount": "-9%",
+            "sku": "501",
+            "category": "dining",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["21"]
+        },
+        {
+            "id": "23",
+            "name": "Double Upholstered Bed",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,",
+            "price": "899.0",
+            "salePrice": "799.0",
+            "startSaleDate": "14-12-2024 12:00am",
+            "endSaleDate": "24-12-2024 12:00pm",
+            "saleStatus": "Upcoming",
+            "stock": "10",
+            "img": "/src/assets/Products/product_img_23.jfif",
+            "discount": "-11%",
+            "sku": "1510",
+            "category": "bedroom",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "topSellQuantity": 128,
+            "topSellAmount": 661475,
+            "relatedProducts": ["24"]
+        },
+        {
+            "id": "24",
+            "name": "Grey Leather Double Bed",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,",
+            "price": "1175.0",
+            "salePrice": "970.0",
+            "startSaleDate": "08-12-2024 12:00am",
+            "endSaleDate": "12-12-2024 12:00pm",
+            "saleStatus": "Ongoing",
+            "stock": "5",
+            "img": "/src/assets/Products/product_img_24.png",
+            "discount": "-17%",
+            "sku": "1110",
+            "category": "bedroom",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["23"]
+        },
+        {
+            "id": "25",
+            "name": "Guessky Office Chair",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,",
+            "price": "449.0",
+            "salePrice": "329.0",
+            "startSaleDate": "10-12-2024 12:00am",
+            "endSaleDate": "15-12-2024 12:00pm",
+            "saleStatus": "Ongoing",
+            "stock": "5",
+            "img": "/src/assets/Products/product_img_25.jfif",
+            "discount": "-27%",
+            "sku": "",
+            "category": "office-chair",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "topSellQuantity": 80,
+            "topSellAmount": 43215,
+            "relatedProducts": ["26"]
+        },
+        {
+            "id": "26",
+            "name": "Fabric Executive Chair",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,",
+            "price": "299.0",
+            "salePrice": "175.0",
+            "startSaleDate": "05-12-2024 12:00am",
+            "endSaleDate": "10-12-2024 12:00pm",
+            "saleStatus": "Expired",
+            "stock": "5",
+            "img": "/src/assets/Products/product_img_26.png",
+            "discount": "-41%",
+            "sku": "",
+            "category": "office-chair",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["25"]
+        },
+        {
+            "id": "27",
+            "name": "Office Lounge Sofa Set",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,",
+            "price": "675.0",
+            "salePrice": "459.0",
+            "startSaleDate": "15-12-2024 12:00am",
+            "endSaleDate": "25-12-2024 12:00pm",
+            "saleStatus": "Upcoming",
+            "stock": "10",
+            "img": "/src/assets/Products/product_img_27.jfif",
+            "discount": "-32%",
+            "sku": "",
+            "category": "lounge",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "topSellQuantity": 67,
+            "topSellAmount": 99125, 
+            "relatedProducts": ["28"]
+        },
+        {
+            "id": "28",
+            "name": "Modern Lounge Sofa",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,",
+            "price": "2100.0",
+            "salePrice": "1800.0",
+            "stock": "5",
+            "img": "/src/assets/Products/product_img_28.jfif",
+            "discount": "-14%",
+            "sku": "",
+            "category": "lounge",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["27"]
+        },
+        {
+            "id": "29",
+            "name": "Office Table",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,",
+            "price": "410.0",
+            "salePrice": "325.0",
+            "startSaleDate": "20-12-2024 12:00am",
+            "endSaleDate": "30-12-2024 12:00pm",
+            "saleStatus": "Upcoming",
+            "stock": "10",
+            "img": "/src/assets/Products/product_img_29.png",
+            "discount": "-21%",
+            "sku": "",
+            "category": "office-table",
+            "topSellQuantity": "65",
+            "topSellAmount": "77842",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["17"]
+        },
+        {
+            "id": "30",
+            "name": "General Hospital Bed",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,",
+            "price": "235.0",
+            "salePrice": "195.0",
+            "startSaleDate": "08-12-2024 12:00am",
+            "endSaleDate": "15-12-2024 12:00pm",
+            "saleStatus": "Ongoing",
+            "stock": "10",
+            "img": "/src/assets/Products/product_img_30.jfif",
+            "discount": "-17%",
+            "sku": "",
+            "category": "hospital-bed",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["31"]
+        },
+        {
+            "id": "31",
+            "name": "Mechanical ICU Bed",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,",
+            "price": "1050.0",
+            "salePrice": "945.0",
+            "startSaleDate": "12-12-2024 12:00am",
+            "endSaleDate": "20-12-2024 12:00pm",
+            "saleStatus": "Ongoing",
+            "stock": "5",
+            "img": "/src/assets/Products/product_img_31.jfif",
+            "discount": "-10%",
+            "sku": "",
+            "category": "hospital-bed",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "topSellQuantity": 98,
+            "topSellAmount": 223216,
+            "relatedProducts": ["32"]
+        },
+        {
+            "id": "32",
+            "name": "Medicine Cupboard P012",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,",
+            "price": "555.0",
+            "salePrice": "450.0",
+            "startSaleDate": "12-10-2024 12:00am",
+            "endSaleDate": "20-10-2024 12:00pm",
+            "saleStatus": "Expired",
+            "stock": "10",
+            "img": "/src/assets/Products/product_img_32.jfif",
+            "discount": "-19%",
+            "sku": "",
+            "category": "hospital-utility",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["33"]
+        },
+        {
+            "id": "33",
+            "name": "Guthrie Over BED Table",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia,",
+            "price": "350.0",
+            "salePrice": "250.0",
+            "startSaleDate": "12-11-2024 12:00am",
+            "endSaleDate": "20-11-2024 12:00pm",
+            "saleStatus": "Expired",
+            "stock": "20",
+            "img": "/src/assets/Products/product_img_33.jfif",
+            "discount": "-29%",
+            "sku": "",
+            "category": "hospital-utility",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["32"]
+        },
+        {
+            "id": "34",
+            "name": "Living Room Sets",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia",
+            "price": "1540.0",
+            "salePrice": "1520.0",
+            "stock": "10",
+            "img": "/src/assets/Products/product_img_1.jfif",
+            "sku": "",
+            "category": "living",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["35"]
+        },
+        {
+            "id": "35",
+            "name": "Sofa for living room",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia",
+            "price": "130.0",
+            "salePrice": "110.0",
+            "stock": "10",
+            "img": "/src/assets/Products/product_img_2.jfif",
+            "discount": "-15%",
+            "sku": " 1510",
+            "category": "living",
+            "size": ["S", "M", "L", "XL"],
+            "color": ["Gold", "Gray", "Magenta", "Maroon", "Navy"],
+            "longDescription":  "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and the point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable, If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout and The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English and it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here, making it look like readable English and many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable and if you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+            "reviews": [
+                {
+                    "name": "White Lewis",
+                    "review": "Vestibulum ante ipsum primis aucibus orci luctustrices ullarper euismod vehicula. Phasellus congue nulla.",
+                    "rating": "4"
+                }
+            ],
+            "faqs": [
+                {
+                    "customerName": "Awais Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 June, 2024",
+                    "answerTime": "2 months ago",
+                    "question": "What is the warranty/guarantee period for this product?",
+                    "answer": "This product comes with a 1-year warranty covering manufacturing defects."
+                },
+                {
+                    "customerName": "Ali Raza",
+                    "sellerName": "Afreeto",
+                    "questionTime": "12 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What are the available colors/sizes/variants?",
+                    "answer": "This product is available in red, blue, and black colors and sizes S, M, L, and XL."
+                },
+                {
+                    "customerName": "Zain Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 August, 2024",
+                    "answerTime": "2 weeks ago",
+                    "question": "What is included in the box/package?",
+                    "answer": "The package includes the product, a user manual, a charging cable, and a warranty card."
+                },
+                {
+                    "customerName": "Rizwan Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 October, 2024",
+                    "answerTime": "4 days ago",
+                    "question": "Is this product compatible with [specific device/model]?",
+                    "answer": "Yes, this product is compatible with all devices running Android 8.0 and above or iOS 12 and above."
+                },
+                {
+                    "customerName": "Imran Ali",
+                    "sellerName": "Afreeto",
+                    "questionTime": "14 November, 2024",
+                    "answerTime": "2 days ago",
+                    "question": "What materials are used in this product?",
+                    "answer": "This product is made from high-quality stainless steel and ABS plastic."
+                }
+            ],
+            "relatedProducts": ["34"]
+        }
+    ]
+}

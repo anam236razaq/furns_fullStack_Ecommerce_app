@@ -1,0 +1,28 @@
+[
+    {
+        "user": "676d4935a030afd43053426c",
+        "items": [
+            {
+                "product": "676e609c543eec995281ce5c",
+                "quantity": 1
+            },
+            {
+                "product": "676e609c543eec995281ce63",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "user": "676e33c2d55ee5ebbcb0ebe0",
+        "items": [
+            {
+                "product": "676e609c543eec995281ce78",
+                "quantity": 1
+            },
+            {
+                "product": "676e609c543eec995281ce7f",
+                "quantity": 4
+            }
+        ]
+    }
+]
